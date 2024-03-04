@@ -27,5 +27,5 @@ This project undertakes an in-depth analysis of a UK-based online retail dataset
 
 ## Contact Information
 
-For more information or to contribute to the project, please contact Vishwaben Bhadiyadara at bhadiyadara.v@northeastern.edu.
+For more information or to contribute to the project, please contact Vishwa Bhadiyadara at bhadiyadara.v@northeastern.edu.
 
