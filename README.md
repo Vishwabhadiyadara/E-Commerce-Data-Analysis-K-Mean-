@@ -11,8 +11,6 @@ This project undertakes an in-depth analysis of a UK-based online retail dataset
 ![download (3)](https://github.com/Vishwabhadiyadara/E-Commerce-Data-Analysis-K-Mean-/assets/110348340/e2b41681-5bd6-4b84-89ef-dc14d4a97c9c)
 ![download (4)](https://github.com/Vishwabhadiyadara/E-Commerce-Data-Analysis-K-Mean-/assets/110348340/c9658951-30e7-4a22-81d3-94e50f536b64)
 
-### RFM Segmentation Visualization
-![download (5)](https://github.com/Vishwabhadiyadara/E-Commerce-Data-Analysis-K-Mean-/assets/110348340/2134422a-57f2-4f08-99e7-777bdcfc82ff)
 
 
 ## Goals
